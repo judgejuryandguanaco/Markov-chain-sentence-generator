@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/mitchstring.c.o ./Debug/bigrams.c.o ./Debug/markov.c.o   
